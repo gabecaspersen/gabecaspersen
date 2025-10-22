@@ -37,7 +37,7 @@
 |----------|--------------|------------|
 | [**poker-monte-carlo-sim**](https://github.com/gabecaspersen/poker-monte-carlo-sim) | A Monte Carlo simulation to evaluate poker hand strength | Python, Pandas, phevaluator |
 | [**NQ-Strategy-Optimizer**](#) | Algorithmic trading strategy using EMA crossover + RSI, optimized for Sharpe ratio | Python, scikit-learn, skopt, QuantConnect |
-| [**California Home Price Estimator**](#) | Training ML models to predict home prices for RE investing | Python, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook |
+| [**California Home Price Estimator**](https://github.com/gabecaspersen/california-home-price-predictor) | Training ML models to predict home prices for RE investing | Python, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook |
 
 ---
 
