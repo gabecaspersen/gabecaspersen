@@ -17,8 +17,9 @@
 ### 🧠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,sqlite,pandas,sklearn,git,github,vscode,linux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,sqlite,vim,git,github,linux,sklearn,vscode&theme=light" />
 </p>
+
 
 ---
 
